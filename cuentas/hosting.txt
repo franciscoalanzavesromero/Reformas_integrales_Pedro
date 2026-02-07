@@ -1,0 +1,17 @@
+Ionos
+reformasintegralespedro.com
+!qWi3a!tt3TP4c6v6o29#D
+
+FTP
+
+!qWi3a!tt3TP4c6v6o29#D
+Servidor / Host
+access-5019581268.webspace-host.com
+Puerto
+22
+Protocolo
+SFTP
+Nombre de usuario
+su766706
+
+
